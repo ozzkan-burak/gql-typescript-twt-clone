@@ -1,1 +1,5 @@
-console.log("Hello World!");
+async function main() {
+  // start our server
+}
+
+main();
