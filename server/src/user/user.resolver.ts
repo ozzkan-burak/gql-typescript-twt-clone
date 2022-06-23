@@ -1,6 +1,6 @@
-import {Resolver} from 'type-graphql';
+import { Resolver } from "type-graphql";
 
 @Resolver()
-class UserResolver{}
+class UserResolver {}
 
 export default UserResolver;
